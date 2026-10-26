@@ -1,0 +1,33 @@
+# Binaries
+/bin/
+/dist/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+
+# Test coverage
+*.out
+coverage.txt
+coverage.html
+
+# Profiling
+*.prof
+*.pprof
+
+# IDE
+.idea/
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# OS
+.DS_Store
+
+# Local environment
+.env
+.env.*
+!.env.example
+.envrc
