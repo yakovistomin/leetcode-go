@@ -1,4 +1,4 @@
-package p0001_two_sum
+package p0001TwoSum
 
 import (
 	"slices"
