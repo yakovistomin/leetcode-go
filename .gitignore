@@ -31,3 +31,6 @@ coverage.html
 .env.*
 !.env.example
 .envrc
+
+# Tests
+**/testdata/rapid/
